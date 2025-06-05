@@ -1,4 +1,4 @@
-# 🛒 *Talabat.API – E-Commerce Backend using ASP.NET Core*
+# 🛒 *Talabat E-Commerce API*
 
 Talabat.API is a modular and scalable **ASP.NET Core Web API** designed for an e-commerce platform. Built using **Onion Architecture** and applying **Domain-Driven Design (DDD)** principles, the project supports product catalog management, order processing, and secure user authentication.
 
